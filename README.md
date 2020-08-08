@@ -39,7 +39,7 @@ Durante toda a aplicação foi usado o [React](https://github.com/facebook/react
 * No back-end usamos o [NodeJS](https://nodejs.org/en/)
 * Na web foi usado o [ReactJS](https://reactjs.org/)
 * No mobile usamos o [React-Native](https://reactnative.dev/)
-Na aplicação mobile o projeto doficial foi feito com expo eu preferir usar a cli do react native
+onde o projeto oficial foi feito com expo eu preferir usar a cli do react native
 
 # Como utilizar?
 

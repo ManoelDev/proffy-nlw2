@@ -1,5 +1,3 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
-
 <p align="center">
   <img src="https://github.com/progamo/proffy-nlw2/blob/master/web/src/assets/images/landing.svg" alt="Proffy" /> 
   <br/>

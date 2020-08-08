@@ -35,7 +35,7 @@
 Proffy é um projeto desenvolvido durante o evento Next Level Week #02, disponibilizado pela [Rocketseat](https://rocketseat.com.br/), ocorreu durante a primeira semana de agosto de 2020.
 
 # Tecnologias usadas
-Durante toda a aplicação foi usado o [React](https://github.com/facebook/react).
+Durante toda a aplicação foi usado o [React](https://github.com/facebook/react). [TypeScript](https://www.typescriptlang.org/)
 * No back-end usamos o [NodeJS](https://nodejs.org/en/)
 * Na web foi usado o [ReactJS](https://reactjs.org/)
 * No mobile usamos o [React-Native](https://reactnative.dev/)
